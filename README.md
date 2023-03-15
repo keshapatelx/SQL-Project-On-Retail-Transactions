@@ -1,8 +1,8 @@
 # SQL-Project-On-Retail-Transactions
-Title: Retail Transactions
-Created by: Kesha Patel
-Date: 20-02-2023
-Tool used: Microsoft SQL Server
+* Title: Retail Transactions
+* Created by: Kesha Patel
+* Date: 20-02-2023
+* Tool used: Microsoft SQL Server
 # Description
 Analyzed a retail transactions dataset using Microsoft SQL Server to extract insights on key metrics such as total transactions, revenue by city and state, average items per transaction, coupon usage, and customer rewards program participation.
 # Approach
